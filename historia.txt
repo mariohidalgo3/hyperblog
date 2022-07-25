@@ -1,5 +1,11 @@
 Esta es la historia de Freddy Vega
 
-Freddy Vega tiene 23 años y nació en Colombia
+Freddy Vega tiene 33 años y nació en Colombia
 
 Mañana nos enfocaremos en su vida laboral.
+
+A este archivo se le cambió el estado a UNTRACKED
+
+Luego, se eliminó del STAGE para no guardar un cambio que se le hizo
+
+Ahora, se guardó esta última versión de la historia.
